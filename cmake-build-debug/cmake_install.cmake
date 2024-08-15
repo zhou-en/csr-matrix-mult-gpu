@@ -1,4 +1,4 @@
-# Install script for directory: /home/nathan/Projects/MatrixMultiplications
+# Install script for directory: /home/nathan/Projects/csr-matrix-mult-gpu
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/nathan/Projects/MatrixMultiplications/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/nathan/Projects/csr-matrix-mult-gpu/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

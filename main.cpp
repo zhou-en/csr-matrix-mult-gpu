@@ -8,8 +8,8 @@
 float gpuMatrixMultiply(const CSRMatrix& A, const CSRMatrix& B, float* C);
 
 int main() {
-    int rows = 90000000;
-    int cols = 90000000;
+    int rows = 10000000;
+    int cols = 10000000;
     int nnz = 500000;
 
     CSRMatrix A = generateRandomSparseMatrix(rows, cols, nnz);

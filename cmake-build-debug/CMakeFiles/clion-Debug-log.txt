@@ -1,10 +1,4 @@
-/home/nathan/.local/share/JetBrains/Toolbox/apps/clion-nova/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/nathan/.local/share/JetBrains/Toolbox/apps/clion-nova/bin/ninja/linux/x64/ninja -DCMAKE_CUDA_COMPILER=/usr/local/cuda/bin/nvcc -G Ninja -S /home/nathan/Projects/MatrixMultiplications -B /home/nathan/Projects/MatrixMultiplications/cmake-build-debug
--- The CXX compiler identification is GNU 11.4.0
--- Detecting CXX compiler ABI info
--- Detecting CXX compiler ABI info - done
--- Check for working CXX compiler: /usr/bin/c++ - skipped
--- Detecting CXX compile features
--- Detecting CXX compile features - done
--- Configuring done (0.1s)
+/home/nathan/.local/share/JetBrains/Toolbox/apps/clion-nova/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/nathan/.local/share/JetBrains/Toolbox/apps/clion-nova/bin/ninja/linux/x64/ninja -DCMAKE_CUDA_COMPILER=/usr/local/cuda/bin/nvcc -G Ninja -S /home/nathan/Projects/csr-matrix-mult-gpu -B /home/nathan/Projects/csr-matrix-mult-gpu/cmake-build-debug
+-- Configuring done (0.0s)
 -- Generating done (0.0s)
--- Build files have been written to: /home/nathan/Projects/MatrixMultiplications/cmake-build-debug
+-- Build files have been written to: /home/nathan/Projects/csr-matrix-mult-gpu/cmake-build-debug

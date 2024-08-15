@@ -61,7 +61,7 @@ rule CUSTOM_COMMAND
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = /home/nathan/.local/share/JetBrains/Toolbox/apps/clion-nova/bin/cmake/linux/x64/bin/cmake --regenerate-during-build -S/home/nathan/Projects/MatrixMultiplications -B/home/nathan/Projects/MatrixMultiplications/cmake-build-debug
+  command = /home/nathan/.local/share/JetBrains/Toolbox/apps/clion-nova/bin/cmake/linux/x64/bin/cmake --regenerate-during-build -S/home/nathan/Projects/csr-matrix-mult-gpu -B/home/nathan/Projects/csr-matrix-mult-gpu/cmake-build-debug
   description = Re-running CMake...
   generator = 1
 
