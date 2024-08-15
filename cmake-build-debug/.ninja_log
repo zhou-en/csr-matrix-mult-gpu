@@ -1,0 +1,7 @@
+# ninja log v6
+1	87	1723697150003294566	CMakeFiles/MatrixMultiplications.dir/cpu_matrix_multiply.cpp.o	b4ddc1b066203a4b
+0	269	1723697150003294566	CMakeFiles/MatrixMultiplications.dir/main.cpp.o	6c382b9151e438ba
+0	352	1723697150003294566	CMakeFiles/MatrixMultiplications.dir/csr_matrix.cpp.o	a4ab8d5b321e6d36
+1	1705	1723697150003294566	CMakeFiles/MatrixMultiplications.dir/gpu_matrix_multiply.cu.o	da3b9f2a145a7f46
+1705	1727	1723697151707233780	CMakeFiles/MatrixMultiplications.dir/cmake_device_link.o	128ea7efb5b1008f
+1727	1777	1723697151731232925	MatrixMultiplications	60c6182b2cba6ef1
