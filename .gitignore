@@ -6,3 +6,4 @@
 *.fatbin
 *.o
 cmake-build-debug/
+matrix_multiply
