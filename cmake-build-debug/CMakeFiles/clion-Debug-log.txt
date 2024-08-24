@@ -1,4 +1,0 @@
-/home/nathan/.local/share/JetBrains/Toolbox/apps/clion-nova/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/nathan/.local/share/JetBrains/Toolbox/apps/clion-nova/bin/ninja/linux/x64/ninja -DCMAKE_CUDA_COMPILER=/usr/local/cuda/bin/nvcc -G Ninja -S /home/nathan/Projects/csr-matrix-mult-gpu -B /home/nathan/Projects/csr-matrix-mult-gpu/cmake-build-debug
--- Configuring done (0.0s)
--- Generating done (0.0s)
--- Build files have been written to: /home/nathan/Projects/csr-matrix-mult-gpu/cmake-build-debug
